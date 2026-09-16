@@ -1,0 +1,14 @@
+# emfls-camera
+
+EMFLS Network site repository.
+
+- Site No.: 41
+- Repository: `emfls/emfls-camera`
+- Planned domain: `https://camera.emfls.com/`
+- Framework: Astro + TypeScript
+- Output: Static
+- Current build stage: Stage 2 — Minimal Bootstrap
+- Search indexing: Disabled while the site is thin
+
+Site-specific information architecture, visual identity, content, production infrastructure,
+and search launch are handled in later EMFLS stages.
